@@ -19,3 +19,15 @@ html {
 .calculator .title {
     color: red
 }
+
+.calculator .buttons-container{
+    padding: 40px 0 0 0;
+}
+
+.calculator .buttons-container .plus {
+    background-color: aquamarine;
+}
+
+.calculator .buttons-container .minus {
+    background-color: antiquewhite;
+}
